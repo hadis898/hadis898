@@ -9,11 +9,11 @@ For the past 20+ years, I have been constantly studying computer programming and
 
 ---
 
-### GitHub 统计
+### GitHub data
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadis898&show_icons=true&include_all_commits=true&theme=default&count_private=true" alt="hadis898's github stats" /></a>
 
-### 推荐我的仓库
+### Recommend my warehouse
 <a href="https://github.com/hadis898/r0capture">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hadis898&repo=r0capture&theme=default" />
 </a>
