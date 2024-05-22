@@ -10,4 +10,4 @@ In addition to my bug bounty and application development skills, I stay up to da
 
 ***As an information security expert, my goal is to improve security by identifying vulnerabilities and implementing effective solutions.***
 
-![](https://github.com/IvanGlinkin/media_support/blob/main/mail_sign.png?raw=true)
+![](https://cdn.jsdelivr.net/gh/IvanGlinkin/media_support@master/mail_sign.png)
