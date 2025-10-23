@@ -1,14 +1,28 @@
 ### Hi, I'm Uyiosa Idahosa
 
-Currently pursuing my medical degree, I've also developed a strong interest in the world of cybersecurity and software development. I believe that the principles of logical thinking, problem-solving, and meticulous attention to detail are crucial in both medicine and technology, and I strive to bridge these two fields.
+Our generation is witnessing the erosion of the "free internet" space.
 
-Over 10 years of experience working in cyber security including penetration testing of enterprise networks and web application, establishing information security programs and ensuring the CIA as well as managing mature information security policies, governance, awareness, vulnerability and risk assessment and remediation.
-
-As an active member of the Cyber Security community, I have proven my skills in ethical hacking by identifying and responsibly disclosing security bugs: remote code execution on Stanford, HackTheBox, New York University and Martinos Center for Biomedical Imaging (Massachusetts General Hospital), web admin on Cambridge and MIT universities; McAfee antivirus bypass.
-
-Knowledge of Bash Scripting, PHP, SQL, Python and C-based program languages allows me to create my own applications for automation and optimization company’s security. Fast Google Dorks Scan, AutoSUID and Domain checker are some of my applications, which are widely recognized by big vendors like Splunk, Hakin9 and KitPloit.
-
-In addition to my bug bounty and application development skills, I stay up to date with the latest industry standards and best practices by continuously pursuing professional education and certification. I hold several certifications such as the Certified Chief Information Security Officer (CCISO), EC-Council Information Security Manager (EISM), Certified in Cybersecurity (CC), Offensive Security Certified Professional (OSCP), Certified Ethical Hacker (Master), and Certified Network Defense Architect (CNDA).
+The Paradox of Internet Freedom
+The gap between ideals and reality: The early internet was envisioned as a decentralized utopia, but today it has been reshaped by commercial monopolies (e.g., tech giants) and political interventions (e.g., state regulations). This shift stems partly from the need for cybersecurity, combating misinformation, and maintaining social stability, but it may also serve as an excuse for excessive control.
+Case reflections: The EU’s Digital Services Act (DSA) requires platforms to censor illegal content, aiming to protect users, but its vague provisions risk chilling free speech. The UK’s "online age verification" seeks to safeguard children but may sacrifice anonymity.
+The Complexity of Global Regulatory Trends
+No single narrative: Different countries pursue varying policy goals. For example:
+China emphasizes "cyber sovereignty" and state control;
+The EU champions strict privacy protections (e.g., GDPR) under the banner of "digital rights," while also mandating data localization;
+The U.S. vacillates between free-market principles and content moderation.
+The loss of technological neutrality: Encryption and anonymity tools (e.g., Tor), once seen as safeguards of freedom, are now often labeled as "threats" by governments.
+A Zero-Sum Game Between Freedom and Security?
+Lessons from counterterrorism and surveillance: Post-9/11 mass surveillance (e.g., the U.S. Patriot Act) demonstrated the dangers of sacrificing freedom in the name of security. Today, similar logic is applied to combat extremism, misinformation, and even social unrest.
+The risk of techno-authoritarianism: Technologies like digital IDs and social credit systems, if unchecked, could evolve into 1984-style tools of surveillance.
+Rethinking Intergenerational Responsibility
+Is the accusation of "betraying the legacy" fair? Each generation faces unique challenges. The internet freedom of the past relied on technical barriers and state acquiescence, while today’s issues (e.g., AI misuse, deepfakes) demand new frameworks.
+Rebuilding freedom in practice: Younger generations are not passive recipients. Open-source movements, cypherpunk culture, and decentralized networks (e.g., IPFS, Mastodon) are exploring alternatives.
+Possibilities for Action
+Technological resistance: Support end-to-end encryption (e.g., Signal), anonymity networks, and anti-censorship tools like blockchain.
+Policy engagement: Advocate for laws that define surveillance boundaries (e.g., digitizing the U.S. Fourth Amendment) and oppose vague definitions of "harmful content."
+Public discourse: Resist reducing complex issues to a binary "freedom vs. security" debate, and strive to balance rights and responsibilities.
+Conclusion: Freedom Needs Redefining
+Internet freedom was never absolute, but its contraction reminds us that rights must be actively defended, not passively inherited. History will not simplistically judge any generation for "betraying freedom," but it will record which acts of resistance emerged at critical moments. Rather than succumbing to despair, we must channel our anxieties into engagement with the ethics of technology, legal frameworks, and social contracts—for the true dystopia begins when people stop believing change is possible.
 
 ***As an information security expert, my goal is to improve security by identifying vulnerabilities and implementing effective solutions.***
 
