@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - **Medical Professional**: MD from [University of Benin (UNIBEN)](https://www.uniben.edu), specializing in `[Your Specialty]`  
-- **Tech Innovator**: Self-taught developer building clinical tools since 2021[1][7]  
+- **Tech Innovator**: Self-taught developer building clinical tools since 2021
 - **Dual Focus**: Merging healthcare expertise with technical skills in `AI/ML` `Security` `Web Development`  
 
 ---
@@ -19,7 +19,7 @@
 **Development**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) [6]
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 **DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -28,16 +28,16 @@
 ---
 
 ## 🔥 Featured Projects
-### 1. [r0capture](https://github.com/hadis898/r0capture) [2]
+### 1. [r0capture](https://github.com/hadis898/r0capture)
 > Universal Android packet capture tool (7K+ clones)  
 > `Python` `Frida` `Network Security`  
 > ![GitHub stars](https://img.shields.io/github/stars/hadis898/r0capture?style=social)
 
-### 2. [gh-proxy](https://github.com/hadis898/gh-proxy) [7]
+### 2. [gh-proxy](https://github.com/hadis898/gh-proxy)
 > GitHub acceleration service with Cloudflare Workers  
 > `Node.js` `CDN Optimization` `Open-Source`  
 
-### 3. [Xplay](https://github.com/hadis898/Xplay) [5]
+### 3. [Xplay](https://github.com/hadis898/Xplay)
 > Ad-free video player with custom streaming  
 > `HTML5` `CSS3` `JavaScript`  
 
